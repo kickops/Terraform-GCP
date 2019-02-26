@@ -1,6 +1,4 @@
-This is a Terraform/GCP based infrastructure designed for the Praqma [Docker
-katas](https://github.com/praqma-training/docker-katas) and the Praqma
-[Kubernetes katas](https://github.com/praqma-training/kubernetes-katas/).
+## This is a Terraform/GCP based infrastructure Content.
 
 The Terraform code assumes an existing GCP project which should be specified
 through the variables.  The project should have compute, container and IAM APIs
